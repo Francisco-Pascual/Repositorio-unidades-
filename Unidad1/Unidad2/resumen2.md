@@ -1,7 +1,0 @@
-Resumen Unidad 2
-En la unidad 2 se estudiaron los conceptos básicos para iniciar en la programación .
-Se aprendio que son las variables y como se utilizan para almacenar datos que pueden cambiar durante la ejecución de un programa.
-Tambien se abordaron los tipos de datos, especialmente los numéricos, y la forma en que se representan en JavaScript, sin diferenciar entre enteros y decimales.
-
-Ademas, se introdujeron las estructuras de control condicionales y los bucles, los cuales permiten controlar el flujo de un programa y repetir instrucciones cuando sea necesario.
-Aunque algonos conceptos como la sintaxis y el uso de variables requirieron práctica, estos temas son fundamentales para comprender como funciona los programas.
