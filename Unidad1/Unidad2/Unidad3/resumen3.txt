@@ -1,0 +1,8 @@
+Resumen Unidad 3
+En esta unidad se aprendio el uso de Git como sistema de control de versiones, el cual permite llevar un historial de cambios en los proyectos y trabajar de forma organizada.
+se estudiaron los comandos básicos de Git, como init, add, commit y push, asi como la creación y uso de repositorios.
+También se aprendio a utilizar Github para alojar proyectos en línea y compartirlos. 
+Al inicio fue un poco confuso entender cómo funcionan los commits y las ramas, pero con la práctica se logró comprender mejor el flujo de trabajo entre Git y Github 
+Durante la practica tuve dificultades para crear correctamente los archivos y carpetas, asi como para entender en que rama hacer los commits y como guardarlo des pues de varios intentos, y mucha investigacion se logro organizar el repositorio por unidades,
+ otro problema que tuve y que talves muchos mas que usan git y github por primera ves esque no aparescan las commits que subimos por primera ves eso pasa pprque git pide una autorizacion al momento de mandar las commits a github y si no haces la autorización 
+no te deja subir los commits eso fue, pero despues de investigar se pudo resolver con exito 

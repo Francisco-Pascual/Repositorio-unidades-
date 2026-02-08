@@ -1,0 +1,8 @@
+Resumen Unidad 1 
+En la unidad 1 se abordo la introduccion a las aplicaciones y los paradignmas modernos.
+Se estudiaron conceptos básicos como el sistema binario y su relación con las computadoras, la logica, los algoritmos y la programación 
+Tambien se reviso el uso de editores de textos y entornos de desarrollo los cuales son herramientas fundamentales para crear aplicaciones.
+Estos temas permitieron comprender como funciona las bases de la programación y el desarrollo de softwre 
+El tema que me costo aprender un poco el proceso fue la logica booleana,  especificamente la conjunción (AND), disyunción (OR), y negación (NOT),
+ya que al inicio costo entender como se evalua las condiciones y cuando una expresión es verdadera o falsa.
+Con la practica y ejemplos, el concepto se volvio mas claro.
